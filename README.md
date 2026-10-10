@@ -27,3 +27,6 @@ On January 29, 2026, at 02:14 AM, the Ksar El Kebir disaster struck near the Oue
 - `notebooks/` — Jupyter Notebook containing baseline simulation and AI prediction workflows.
 - `dashboard/` — Frontend web application code (HTML/Tailwind CSS command-center dashboard).
 - `presentation/` — Final pitch deck and executive summary PDF.
+
+- ---
+🔗 **Live Dashboard:** [View IDews Live AI Studio App](https://ai.studio/apps/841ae407-251f-4af0-a509-e55763bb96b5)
